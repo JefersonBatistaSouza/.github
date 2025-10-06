@@ -50,7 +50,6 @@ Sou apaixonado por tecnologia e por resolver problemas reais com soluções efic
 - 🔗 Integração **WordPress** com **Gazim Atacado** e **Lojas Rico**
 - 🔄 Integração **Woocommerce + Firebird (Java)** para atualização de produtos, preços e estoque
 - 🧩 Desenvolvimento de novas features para o **Portal da Transparência** dos municípios de RO
-- ♿ Implementação de **acessibilidade web** no site do município de **Ariquemes/RO**
 
 ---
 
