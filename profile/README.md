@@ -56,6 +56,6 @@ Sou apaixonado por tecnologia e por resolver problemas reais com soluções efic
 ## 🌐 Sites no ar
 
 - 🏠 [Bruni Imóveis](https://bruniimoveis.com.br)
-- 🚜 [Trator Mag](https://tratormag.com.br)
+- 🚜 [Tratormag](https://tratormag.com.br)
 
 - [LinkedIn](https://www.linkedin.com/in/jeferson-batista-souza-8641b8177/)
